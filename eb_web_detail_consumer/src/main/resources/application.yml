@@ -1,0 +1,14 @@
+server:
+  port: 6061
+
+spring:
+  application:
+    name: eb-web-detail-consumer
+
+
+#将服务注册到注册中心中去
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka,http://127.0.0.1:10010/eureka
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-banner-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-banner-provider1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-banner-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-seckill-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-seckill-provider1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-seckill-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-zhifu-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-zhifu-provider1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-zhifu-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb_eureka1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb_eureka2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb_gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb_web_detail_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb_web_detail_provider1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb_web_detail_provider2" charset="UTF-8" />
+  </component>
+</project>

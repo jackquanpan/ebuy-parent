@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/eb-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-mongodb" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-seckill-provider2" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-web" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-web-banner-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-web-banner-provider1" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-web-banner-provider2" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-web-seckill-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-web-seckill-provider1" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-web-seckill-provider2" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-zhifu-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-zhifu-provider1" />
+    <file type="web" url="file://$PROJECT_DIR$/eb-zhifu-provider2" />
+    <file type="web" url="file://$PROJECT_DIR$/eb_web_detail_consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/eb_web_detail_provider1" />
+    <file type="web" url="file://$PROJECT_DIR$/eb_web_detail_provider2" />
+    <file type="web" url="file://$PROJECT_DIR$/eb_web_seckill_provider1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/eb_erueka1/pom.xml" />
+        <option value="$PROJECT_DIR$/eb_web_seckill_provider1/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

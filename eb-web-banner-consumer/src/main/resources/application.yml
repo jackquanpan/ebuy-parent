@@ -1,0 +1,15 @@
+#配置端口号
+server:
+  port: 7073
+
+#配置数据库连接信息
+spring:
+  application:
+    name: eb-web-banner-consumer
+
+
+#将服务注册到注册中心中去
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka,http://127.0.0.1:10010/eureka

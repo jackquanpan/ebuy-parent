@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="91ce4cc5-f8d6-4278-8b7c-7135ca36622d" name="https://FSQJ4RNWUHW4HES:8443/svn/k8510/trunk" url="https://FSQJ4RNWUHW4HES:8443/svn/k8510/trunk">
+        <fileTransfer host="" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

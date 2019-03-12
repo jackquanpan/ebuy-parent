@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eb-admin" />
+        <module name="eb-commons" />
+        <module name="eb-mongodb" />
+        <module name="eb-pojo" />
+        <module name="eb-web" />
+        <module name="eb-web-banner-consumer" />
+        <module name="eb-web-banner-provider1" />
+        <module name="eb-web-banner-provider2" />
+        <module name="eb-web-seckill-consumer" />
+        <module name="eb-web-seckill-provider1" />
+        <module name="eb-web-seckill-provider2" />
+        <module name="eb-zhifu-consumer" />
+        <module name="eb-zhifu-provider1" />
+        <module name="eb-zhifu-provider2" />
+        <module name="eb_eureka1" />
+        <module name="eb_eureka2" />
+        <module name="eb_gateway" />
+        <module name="eb_web_detail_consumer" />
+        <module name="eb_web_detail_provider1" />
+        <module name="eb_web_detail_provider2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eb-seckill-provider2" target="1.8" />
+      <module name="eb-web-seckill-rovider1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eb-admin" options="-parameters" />
+      <module name="eb-commons" options="-parameters" />
+      <module name="eb-mongodb" options="-parameters" />
+      <module name="eb-pojo" options="-parameters" />
+      <module name="eb-seckill-provider2" options="-parameters" />
+      <module name="eb-web" options="-parameters" />
+      <module name="eb-web-banner-consumer" options="-parameters" />
+      <module name="eb-web-banner-provider1" options="-parameters" />
+      <module name="eb-web-banner-provider2" options="-parameters" />
+      <module name="eb-web-seckill-consumer" options="-parameters" />
+      <module name="eb-web-seckill-provider1" options="-parameters" />
+      <module name="eb-web-seckill-provider2" options="-parameters" />
+      <module name="eb-web-seckill-rovider1" options="-parameters" />
+      <module name="eb-zhifu-consumer" options="-parameters" />
+      <module name="eb-zhifu-provider1" options="-parameters" />
+      <module name="eb-zhifu-provider2" options="-parameters" />
+      <module name="eb_eureka1" options="-parameters" />
+      <module name="eb_eureka2" options="-parameters" />
+      <module name="eb_gateway" options="-parameters" />
+      <module name="eb_web_detail_consumer" options="-parameters" />
+      <module name="eb_web_detail_provider1" options="-parameters" />
+      <module name="eb_web_detail_provider2" options="-parameters" />
+    </option>
+  </component>
+</project>
